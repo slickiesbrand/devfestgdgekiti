@@ -1,11 +1,11 @@
 
 ## Creator
 
-this was designed by and is maintained by slickboss (sleektechsolution)
+this was designed and maintained by(sleektech SoftWork)
 
 * https://twitter.com/akinrolie_slick
-* https://github.com/slickboss
+* https://github.com/sleektech
 
 ## Copyright and License
 
-Copyright 2016 
+Copyright SleekTech 2016  
